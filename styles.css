@@ -391,6 +391,11 @@ a:visited, a:link {
  		background-repeat: no-repeat;
  		background-position: bottom right; 
 	}
+	#section3{
+		
+    	background: url(http://imgur.com/dYoQd2f.png) no-repeat;
+  		background-position: center;
+	}
 }
 
 /*# sourceMappingURL=styles.css.map */
